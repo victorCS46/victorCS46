@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorCS46
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Javascript projects
+- 👀 I’m interested in Web and Mobile development
+- 🌱 I’m currently working with ReactJS.
+- 💞️ I’m looking to collaborate on JS projects
 
 <!---
 victorCS46/victorCS46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
