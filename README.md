@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorCS46
 - 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently working with ReactJS.
+- 🌱 I’m currently working with ReactJS and React Native.
 - 💞️ I’m looking to collaborate on JS projects
 
 <!---
